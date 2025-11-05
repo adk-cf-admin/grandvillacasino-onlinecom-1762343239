@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://grandvillacasino-online.com/
+Sitemap: https://grandvillacasino-online.com/sitemap.xml
